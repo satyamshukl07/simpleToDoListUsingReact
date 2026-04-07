@@ -48,7 +48,7 @@
 
     return (
         <div style={{padding: "20px", fontFamily: "Arial"}}>
-             <h2>📝 Todo List</h2>
+             <h2>Todo List</h2>
             
              <div style={{marginBottom: "20px"}}>
                  <input 
